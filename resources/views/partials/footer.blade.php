@@ -1,3 +1,14 @@
 <footer>
-    <h1>sono il footer</h1>
+    <nav>
+        <ul>
+            <li>   
+                <a href="/">Home</a>
+                
+            </li>
+            <li>
+                <a href="/single">Single</a>
+            </li>
+            
+        </ul>
+    </nav>
 </footer>
