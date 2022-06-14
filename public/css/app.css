@@ -8,6 +8,10 @@
   background-color: #1C1C1C;
 }
 
+.color .jumboTron img {
+  width: 100%;
+}
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -32,5 +36,31 @@
 
 .container .row .col h2 {
   color: white;
+}
+
+.head {
+  background-color: rgb(0, 47, 255);
+}
+
+.head p {
+  display: inline;
+  color: white;
+  margin: 10px;
+}
+
+.navHead ul {
+  height: 50px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.navHead ul li {
+  display: inline;
+  margin: 5px;
+}
+
+.navHead ul li a {
+  text-decoration: none;
+  color: black;
 }
 

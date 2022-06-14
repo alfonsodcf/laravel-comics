@@ -1,9 +1,10 @@
 <header>
-    <div>
+    <div class="head">
         <p>DC POWER VISA</p>
         <p>ADDITIONAL DC SITES</p>
     </div>
-    <nav>
+    <nav class="navHead">
+        
         <ul>
             <li>
                 <a href="">CHARACTRERS</a>

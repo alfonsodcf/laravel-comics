@@ -8,7 +8,9 @@
 <div class="color">
 
 
-    <h1>Home</h1>
+    <div class="jumboTron">
+        <img src="../img/jumbotron.jpg" alt="">
+    </div>
     
     <div class="container">
         <div class="row">
