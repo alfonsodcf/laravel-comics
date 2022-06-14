@@ -5,6 +5,9 @@
 @endsection
 
 @section('mainContent')
+<div class="color">
+
+
     <h1>Home</h1>
     
     <div class="container">
@@ -19,4 +22,6 @@
         </div>
 
     </div>
+
+</div>
 @endsection
